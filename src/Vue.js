@@ -6,8 +6,8 @@ import App from "./App.vue";
 import router from "./router";
 import store from "./store";
 
-import "@/assets/scss/style";
-import "@/assets/js/index";
+import "@/resources/scss/style";
+import "@/resources/js/index";
 
 Vue.config.productionTip = false;
 Vue.use(BootstrapVue);
