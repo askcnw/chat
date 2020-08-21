@@ -5,7 +5,7 @@
 module.exports = {
 	pages: {
 		index: {
-			entry: "src/main.js", // 必須パラメータ
+			entry: "src/Vue.js", // 必須パラメータ
 			title: "ページタイトル",
 		},
 	},
